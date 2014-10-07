@@ -1,7 +1,4 @@
 fef
-4
-5
-6
 test
 iTtt
 tt
